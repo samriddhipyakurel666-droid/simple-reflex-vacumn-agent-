@@ -8,7 +8,7 @@ The program prints the initial environment, each action, the final state, and a 
 
 ---
 
-## 🚀 Features
+##  Features
 - Two‑location environment (A and B)
 - Random initialization of clean/dirty states
 - Random agent starting position
@@ -18,13 +18,10 @@ The program prints the initial environment, each action, the final state, and a 
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 - Python 3.x
 - Google Colab or any Python IDE
 
 ---
 
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/samriddhipyakurel666-droid/simple-reflex-vacumn-agent.git
+
