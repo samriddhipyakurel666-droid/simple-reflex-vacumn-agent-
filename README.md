@@ -6,7 +6,7 @@ The agent operates in a two‑location environment (A/B), randomly initialized a
 It starts in a random location, senses the state, cleans if dirty, moves to the other location, and repeats.  
 The program prints the initial environment, each action, the final state, and a performance score.
 
----
+--
 
 ##  Features
 - Two‑location environment (A and B)
